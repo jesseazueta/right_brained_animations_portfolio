@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="190px" height="200px" viewBox="0 0 479.242 469.257" enable-background="new 0 0 479.242 469.257"
+	 xml:space="preserve">
+<g id="Layer_1">
+	<g id="Layer_2" display="none">
+
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-623.1831" y1="1475.9282" x2="-1092.8551" y2="1006.256" gradientTransform="matrix(1 0 0 -1 1099.9297 1473.4326)">
+			<stop  offset="0" style="stop-color:#FFAA2A"/>
+			<stop  offset="1" style="stop-color:#FFC06C"/>
+		</linearGradient>
+		<rect x="0.001" display="inline" fill="url(#SVGID_1_)" width="479.241" height="469.257"/>
+
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-860.0054" y1="1437.354" x2="-860.0054" y2="1042.6885" gradientTransform="matrix(1 0 0 -1 1099.9297 1473.4326)">
+			<stop  offset="0" style="stop-color:#251200"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<path display="inline" fill="url(#SVGID_2_)" d="M174.826,238.891h42.479l-21.239-82.371L174.826,238.891z M36.258,36.744v396
+			h407.333v-396H36.258z M240.618,329.207l-15.542-53.531h-57.504l-15.542,53.531h-39.372l55.432-189.263v-20.722h52.842
+			l63.203,209.984H240.618z M345.267,329.207h-42.479V169.473h42.479V329.207z M324.284,150.305
+			c-12.159,0-22.019-9.742-22.019-21.758c0-12.017,9.855-21.759,22.019-21.759s22.019,9.742,22.019,21.759
+			C346.302,140.563,336.445,150.305,324.284,150.305z"/>
+	</g>
+	<g id="Layer_3">
+	</g>
+	<g id="Layer_5">
+
+			<rect x="10.788" y="10.628" fill="#FFB6B6" stroke="#C10000" stroke-width="21.429" stroke-miterlimit="10" width="458.333" height="447.833"/>
+	</g>
+	<g id="Layer_6">
+		<rect x="118.621" y="373.128" fill="#C10000" width="255.5" height="73"/>
+	</g>
+	<g id="Layer_4">
+		<g>
+			<g>
+
+					<text transform="matrix(1.0823 0 0 1 129.1211 439.2319)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="78.3065">RUBY</text>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Layer_2_1_">
+	<polygon fill="#C10000" points="149.494,40.795 329.879,40.795 421.333,141.71 239.687,362.461 57.409,141.71 	"/>
+</g>
+<g id="Layer_3_1_">
+	<line fill="none" stroke="#FFB6B6" stroke-width="2" stroke-miterlimit="10" x1="42.121" y1="140.628" x2="442.621" y2="140.628"/>
+	<polyline fill="none" stroke="#FFB6B6" stroke-width="2" stroke-miterlimit="10" points="329.879,40.795 307.621,140.628
+		239.371,40.795 172.121,140.628 149.494,40.795 	"/>
+	<polyline fill="none" stroke="#FFB6B6" stroke-width="2" stroke-miterlimit="10" points="172.121,140.628 239.687,362.461
+		307.621,140.628 	"/>
+</g>
+</svg>
